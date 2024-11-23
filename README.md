@@ -1,9 +1,10 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=chisaato&show_icons=true&hide_border=true&theme=vue-dark&include_all_commits_disable=false&custom_title=Meow~&count_private=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=chisaato&show_icons=true&hide_border=true&theme=vue-dark&include_all_commits_disable=false&custom_title=🙂&count_private=true">
 
 # chisaato
 
-## Hi there 👋
-Working on many interesting OpenSource projects.
+## About Me
+
+N/A 以后会添加更多
 
 ## Working Languages
 
@@ -15,4 +16,3 @@ Working on many interesting OpenSource projects.
 💻 OS:
 
 ![Windows 11 Pro](https://img.shields.io/badge/Windows%2011%20Pro-00adef?style=flat-square&logo=windows&logoColor=ffffff)
-
